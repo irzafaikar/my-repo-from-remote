@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+}
+div.container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+img.photo{
+    width: 100%;
+    height: auto;
+}
+h2.description{
+    text-align: center;
+}
